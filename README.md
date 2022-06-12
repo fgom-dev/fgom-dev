@@ -1,17 +1,41 @@
-## Olá me chamo Fernando!
+# Olá me chamo Fernando Gomes! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**fgom-dev/fgom-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilha-los a cada dia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente focado em front-end com ReactJS.
+- 🐍 Possuo conhecimentos em Python.
+
+---
+
+<p align="center"> 
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fgom-dev&show_icons=true&theme=radical" /> 
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgom-dev&layout=compact&theme=radical" /> 
+</p>
+
+---
+
+**Linguagens e Ferramentas:**  
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5" alt="HTML5" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3" alt="CSS3" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="Javascript" alt="Javascript" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
+<a href="https://www.typescriptlang.org/" title="Typescript" alt="Typescript" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+<a href="https://www.reactjs.org/" title="React" alt="React" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+<a href="https://www.python.org/" title="Python" alt="Python" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+</br></br>
+
+---
+
+**Entre em contato comigo:**
+
+<a href = "mailto:fnd.gomes02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fernando-pereira-7172a6151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
+
+![Snake animation](https://github.com/fgom-dev/fgom-dev/blob/output/github-contribution-grid-snake.svg)
+          
