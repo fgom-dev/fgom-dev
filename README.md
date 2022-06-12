@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ---
-Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilha-los a cada dia.
+Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilhá-los a cada dia.
 
 ---
 
