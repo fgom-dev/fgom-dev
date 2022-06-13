@@ -9,6 +9,8 @@ Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilhá
 - 🔭 Atualmente focado em front-end com ReactJS.
 - 🐍 Possuo conhecimentos em Python.
 
+<a href="https://github.com/fgom-dev/fgom-dev/blob/main/assets/FernandoCV.pdf" target="_blank">📜 Meu CV</a>
+
 ---
 
 <p align="center"> 
