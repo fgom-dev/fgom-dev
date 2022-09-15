@@ -5,9 +5,11 @@
 Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilhá-los a cada dia.
 
 ---
-
-- 🔭 Atualmente focado em front-end com ReactJS.
-- 🐍 Possuo conhecimentos em Python.
+### Atualmente focado em back-end utilizando as tecnologias:
+- NodeJS
+- Typescript
+- Express
+- Prisma
 
 <a href="https://github.com/fgom-dev/fgom-dev/blob/main/assets/FernandoCV.pdf" target="_blank">📜 Meu CV</a>
 
@@ -22,12 +24,11 @@ Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilhá
 
 **Linguagens e Ferramentas:**  
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5" alt="HTML5" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3" alt="CSS3" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
+<a href="https://nodejs.org/en/docs/" title="NodeJS" alt="NodeJS" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>
+<a href="https://expressjs.com/" title="Express" alt="Express" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="Javascript" alt="Javascript" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
 <a href="https://www.typescriptlang.org/" title="Typescript" alt="Typescript" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-<a href="https://www.reactjs.org/" title="React" alt="React" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-<a href="https://www.python.org/" title="Python" alt="Python" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+<a href="https://www.prisma.io/" title="Prisma" alt="Prisma" target="_blank"><img height="30" src="https://github.com/fgom-dev/fgom-dev/blob/main/assets/prismaLogo.svg" /></a>
 </br></br>
 
 ---
