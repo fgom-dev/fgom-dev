@@ -6,10 +6,10 @@ Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilhá
 
 ---
 ### Atualmente focado em back-end utilizando as tecnologias:
-- NodeJS
-- Typescript
-- Express
-- Prisma
+- ASP .Net Core
+- C#
+- Entity Framework
+- PostgreSQL
 
 <a href="https://github.com/fgom-dev/fgom-dev/blob/main/assets/FernandoCV.pdf" target="_blank">📜 Meu CV</a>
 
