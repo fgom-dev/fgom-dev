@@ -32,7 +32,7 @@ Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilhá
 <a href="https://www.prisma.io/" title="Prisma" alt="Prisma" target="_blank"><img height="30" src="https://github.com/fgom-dev/fgom-dev/blob/main/assets/prismaLogo.svg" /></a>
 -->         
           
-<a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" title="dotNet Core" alt="dotNet Core" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" title=".Net Core" alt="dotNet Core" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" title="C#" alt="C Sharp" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></a>
 <a href="https://angular.io/" title="Angular" alt="Angular" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
 <a href="https://www.typescriptlang.org/" title="Typescript" alt="Typescript" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
