@@ -24,11 +24,18 @@ Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilhá
 
 **Linguagens e Ferramentas:**  
 
+<!---
 <a href="https://nodejs.org/en/docs/" title="NodeJS" alt="NodeJS" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>
 <a href="https://expressjs.com/" title="Express" alt="Express" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="Javascript" alt="Javascript" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
 <a href="https://www.typescriptlang.org/" title="Typescript" alt="Typescript" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
 <a href="https://www.prisma.io/" title="Prisma" alt="Prisma" target="_blank"><img height="30" src="https://github.com/fgom-dev/fgom-dev/blob/main/assets/prismaLogo.svg" /></a>
+-->         
+          
+<a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" title="dotNet Core" alt="dotNet Core" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" title="C#" alt="C Sharp" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></a>
+<a href="https://angular.io/" title="Angular" alt="Angular" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
+<a href="https://www.typescriptlang.org/" title="Typescript" alt="Typescript" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
 </br></br>
 
 ---
@@ -40,5 +47,9 @@ Apaixonado por tecnnologia, busco aperfeiçoar meus conhecimentos e compartilhá
 
 ---
 
+
+
+<!---
 ![Snake animation](https://github.com/fgom-dev/fgom-dev/blob/output/github-contribution-grid-snake.svg)
+-->
           
